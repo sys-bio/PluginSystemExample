@@ -4,7 +4,7 @@
 HINSTANCE handle; // Handle to the DLL
 
 // SOME TERMINOLOGY
-// Host Applciation : this is the applcaition that wil load an use the plugins
+// Host Application : this is the applcaition that wil load an use the plugins
 // Plugin: This is a dynamically loaded DLL that the host application can use
 // A symbol starting with T is a type
 
